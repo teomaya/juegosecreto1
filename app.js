@@ -37,6 +37,7 @@
         
         //La condicion no se cumplio
         //alert(" Lo siento, no acertaste el numero");
+        // estoy probando
     }
 
 }
